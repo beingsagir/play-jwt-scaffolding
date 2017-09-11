@@ -1,0 +1,4 @@
+[debug] Copy resource mappings: 
+[debug] 	(C:\sandbox\opensource\play-jwt-scaffolding\conf\application.conf,C:\sandbox\opensource\play-jwt-scaffolding\target\scala-2.12\classes\application.conf)
+[debug] 	(C:\sandbox\opensource\play-jwt-scaffolding\conf\logback.xml,C:\sandbox\opensource\play-jwt-scaffolding\target\scala-2.12\classes\logback.xml)
+[debug] 	(C:\sandbox\opensource\play-jwt-scaffolding\conf\routes,C:\sandbox\opensource\play-jwt-scaffolding\target\scala-2.12\classes\routes)
