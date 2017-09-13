@@ -4,7 +4,7 @@
 		module="play-framework-jwt-scaffolding_2.12"
 		revision="1.0-SNAPSHOT"
 		status="integration"
-		publication="20170912014530"
+		publication="20170912183300"
 	>
 		<description>
 		play-framework-jwt-scaffolding

@@ -4,7 +4,7 @@
 		module="play-framework-jwt-scaffolding$sources_2.12"
 		revision="1.0-SNAPSHOT"
 		status="integration"
-		publication="20170907211151"
+		publication="20170912183312"
 	/>
 	<configurations>
 		<conf name="universal" visibility="public" description=""/>
